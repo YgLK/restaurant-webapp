@@ -1,5 +1,5 @@
 const  secrets = {
-  mongoUri: "<enmter_mongodbURI_here>",
+  mongoUri: "<enter_mongodbURI_here>",
 }
 
 module.exports = {secrets}
